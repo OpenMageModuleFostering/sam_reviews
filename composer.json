@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Sam_Reviews",
+    "name": "openmage-module-fostering\/sam_reviews",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This is the extension for the Latest product reviews.",
     "authors": [
